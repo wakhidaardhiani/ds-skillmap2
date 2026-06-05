@@ -59,7 +59,7 @@ Dashboard: https://skillmapcarrier.streamlit.app/
 
 ---
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 | Category             | Technology                |
 | -------------------- | ------------------------- |
